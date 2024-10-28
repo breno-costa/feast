@@ -8,6 +8,7 @@ alphabetical order.
 | ------------ | ------- | ------- | 
 | Affirm  | Francisco Javier Arceo | franciscojavierarceo |
 | Bank of Georgia | Tornike Gurgenidze | tokoko | 
+| Delivery Hero | Breno Costa | breno-costa |
 | Get Ground | Zhiling Chen | zhilingc | 
 | Gojek  | Pradithya Aria Pura | pradithya |
 | Twitter  | David Liu | mavysavydav|
